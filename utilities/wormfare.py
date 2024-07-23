@@ -218,11 +218,11 @@ class WormfareBot:
         await asyncio.sleep(2)
         resp = await self.session.get('https://api.clicker.wormfare.com/user/profile')
         resp_json = resp.json()
-        amount = int(resp_json['score'] / 4000000)
-        amount = 4000000 * amount
+        amount = int(resp_json['score'] / 1000000)
+        amount = 1000000 * amount
         await asyncio.sleep(2)
         # print('amount =', amount)
-        if amount >= 4000000:
+        if amount >= 1000000:
             json_data ={
                 'spendAmount': amount,
                 'type':'Score'
