@@ -6,7 +6,7 @@ Auto claimer for @wormfare_slap_bot
 |----------------------------------------------------------------|:---------:|
 | Multithreading                                                 |     ✅     |
 | Binding a proxy to a session                                   |     ✅     |
-| Auto-player;                                                   |     ✅     |
+| Auto-complete tasks;                                                   |     ✅     |
 | Random sleep time between accounts                             |     ✅     |
 | Support pyrogram .session                                      |     ✅     |
 | Generating unique user-agent for each session                  |     ✅     |
