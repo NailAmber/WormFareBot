@@ -1,6 +1,8 @@
 # Auto WormFare Slap claimer
 Auto claimer for @wormfare_slap_bot
 
+My tg: https://t.me/Zzjjjuuu
+
 ## Functionality
 | Functional                                                     | Supported |
 |----------------------------------------------------------------|:---------:|
